@@ -1,0 +1,6 @@
+{
+  "name": "Orbital 3D Carousel",
+  "description": "Interactive holographic 3D carousel landing page with glassmorphic panels, kinetic parallax, and deep space aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
